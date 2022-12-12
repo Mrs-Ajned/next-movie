@@ -1,25 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project created for Front-end Developer assessment.
+## assessment project submission
 
-## Getting Started
-
-First, run the development server:
+First, run the build command:
 
 ```bash
-npm run dev
+npm run build
 # or
-yarn dev
+yarn build
 ```
 
-## `What you need to do?`
+run the start command:
 
-- Fork this repo under your own Github account and make it public.
-- Build the UI according to this design [Web Assessment UI](https://www.figma.com/file/LrtIkV5utc38kPQ6HrfmL9/Web-Assesment-UI).
-- Integrate and populate the response from [Movie API Postman Collection]( https://documenter.getpostman.com/view/17611285/UVRDFQxK). 
-- You may use any npm packages that seems to fit the test requirement. 
-- Implements either React Context / React Redux for the state management.
+```bash
+npm start
+# or
+yarn start
+```
 
-### Definition of Done
-
-- All screens in the design done. 
-- Integrated with API. 
-- Have atleast two usage of either React Context / React Redux 
